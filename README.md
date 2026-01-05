@@ -1,3 +1,3 @@
 # Happy-Journey
-trip planning 
+trip planning
 learning with swecha
